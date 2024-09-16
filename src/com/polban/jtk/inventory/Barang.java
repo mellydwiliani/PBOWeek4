@@ -3,7 +3,7 @@ package com.polban.jtk.inventory;
 public class Barang {
     String kode_barang;
     String nama_barang;
-    int stok;
+    private int stok;
 
     public Barang(String kode, String nama, int stk) {
         kode_barang = kode;
