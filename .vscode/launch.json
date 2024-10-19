@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Inventori",
+            "request": "launch",
+            "mainClass": "com.polban.jtk.inventory.Inventori",
+            "projectName": "Week4_271f6b50"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) MainProgram",
             "request": "launch",
             "mainClass": "MainProgram",
